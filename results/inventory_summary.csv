@@ -1,0 +1,6 @@
+,Baseline (blanket rule),Optimised (ABC-XYZ policy),Change,Change %
+Safety stock value,600046.0,64506.0,-535539.0,-89.0
+Average inventory value,924949.0,183792.0,-741157.0,-80.0
+Annual holding cost,231237.0,45948.0,-185289.0,-80.0
+Annual ordering cost,31930.0,29640.0,-2291.0,-7.0
+Total annual inventory cost,263168.0,75588.0,-187580.0,-71.0

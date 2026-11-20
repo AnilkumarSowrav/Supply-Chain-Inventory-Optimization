@@ -1,0 +1,101 @@
+product_id,product_name,category,revenue,profit,units,rev_share,cum_share,abc,weeks_on_sale,avg_weekly_units,sd_weekly_units,cv,xyz,segment,enough_history
+1004,Field & Stream Sportsman 16 Gun Fire Safe,Fishing,6631668.4,730159.12,16580,0.2023,0.2023,A,144,115.1389,12.0039,0.1043,X,AX,True
+365,Perfect Fitness Perfect Rip Deck,Cleats,4226595.45,472867.79,70455,0.1289,0.3312,A,144,489.2708,43.7832,0.0895,X,AX,True
+957,Diamondback Women's Serene Classic Comfort Bi,Camping & Hiking,3942337.16,409215.24,13142,0.1202,0.4514,A,144,91.2639,8.676,0.0951,X,AX,True
+191,Nike Men's Free 5.0+ Running Shoe,Cardio Equipment,3501149.85,358365.13,35015,0.1068,0.5582,A,144,243.1597,29.8232,0.1226,X,AX,True
+502,Nike Men's Dri-FIT Victory Golf Polo,Women's Apparel,3007700.0,334162.57,60154,0.0917,0.6499,A,144,417.7361,43.8188,0.1049,X,AX,True
+1073,Pelican Sunstream 100 Kayak,Water Sports,2962851.85,307522.8,14815,0.0904,0.7403,A,144,102.8819,11.3578,0.1104,X,AX,True
+1014,O'Brien Men's Neoprene Life Vest,Indoor/Outdoor Games,2762144.7,302190.73,55265,0.0842,0.8245,A,144,383.7847,43.9655,0.1146,X,AX,True
+403,Nike Men's CJ Elite 2 TD Football Cleat,Men's Footwear,2760077.67,296357.12,21233,0.0842,0.9087,B,144,147.4514,15.6124,0.1059,X,BX,True
+627,Under Armour Girls' Toddler Spine Surge Runni,Shop By Sport,1213896.45,121568.96,30355,0.037,0.9457,B,144,210.7986,28.1536,0.1336,X,BX,True
+565,adidas Youth Germany Black/Red Away Match Soc,Girls' Apparel,63490.0,7468.0,907,0.0019,0.9477,B,121,7.4959,5.1658,0.6892,Y,BY,True
+728,LIJA Women's Eyelet Sleeveless Golf Polo,Golf Shoes,58695.0,6391.46,903,0.0018,0.9494,B,120,7.525,5.301,0.7044,Y,BY,True
+44,adidas Men's F10 Messi TRX FG Soccer Cleat,Baseball & Softball,54710.88,8078.23,912,0.0017,0.9511,B,120,7.6,6.0118,0.791,Y,BY,True
+823,Titleist Pro V1x High Numbers Personalized Go,Electronics,45543.24,6225.6,876,0.0014,0.9525,C,121,7.2397,5.6863,0.7854,Y,CY,True
+249,Under Armour Women's Micro G Skulpt Running S,Boxing & MMA,44195.88,4084.07,804,0.0013,0.9538,C,120,6.7,5.2334,0.7811,Y,CY,True
+116,Nike Men's Comfort 2 Slide,Tennis & Racquet,42920.46,5969.96,954,0.0013,0.9552,C,120,7.95,5.6492,0.7106,Y,CY,True
+821,Titleist Pro V1 High Numbers Personalized Gol,Electronics,42631.8,6003.73,820,0.0013,0.9565,C,121,6.7769,4.0218,0.5935,Y,CY,True
+818,Titleist Pro V1x Golf Balls,Electronics,40743.51,3493.84,849,0.0012,0.9577,C,121,7.0165,5.3479,0.7622,Y,CY,True
+822,Titleist Pro V1x High Numbers Golf Balls,Electronics,37288.23,4375.63,777,0.0011,0.9588,C,121,6.4215,4.89,0.7615,Y,CY,True
+278,Under Armour Men's Compression EV SL Slide,Electronics,34867.25,3473.1,775,0.0011,0.9599,C,121,6.405,4.5085,0.7039,Y,CY,True
+572,TYR Boys' Team Digi Jammer,Girls' Apparel,33551.61,4118.67,839,0.001,0.9609,C,121,6.9339,4.7201,0.6807,Y,CY,True
+771,Clicgear Rovic Cooler Bag,Golf Gloves,33071.73,2746.54,827,0.001,0.9619,C,121,6.8347,5.0536,0.7394,Y,CY,True
+977,ENO Atlas Hammock Straps,Hunting & Shooting,28940.35,2194.47,965,0.0009,0.9628,C,121,7.9752,5.6752,0.7116,Y,CY,True
+235,Under Armour Hustle Storm Medium Duffle Bag,Fitness Accessories,28481.86,4096.68,814,0.0009,0.9637,C,121,6.7273,5.1849,0.7707,Y,CY,True
+835,Bridgestone e6 Straight Distance NFL Carolina,Electronics,28375.13,3306.48,887,0.0009,0.9646,C,121,7.3306,5.3656,0.7319,Y,CY,True
+828,Bridgestone e6 Straight Distance NFL San Dieg,Electronics,28023.24,1762.63,876,0.0009,0.9654,C,121,7.2397,5.117,0.7068,Y,CY,True
+276,Under Armour Women's Ignite Slide,Electronics,27799.31,3503.05,869,0.0008,0.9663,C,121,7.1818,5.0957,0.7095,Y,CY,True
+642,Columbia Men's PFG Anchor Tough T-Shirt,Shop By Sport,26700.0,2340.57,890,0.0008,0.9671,C,120,7.4167,5.3446,0.7206,Y,CY,True
+282,Under Armour Women's Ignite PIP VI Slide,Electronics,26007.87,1927.11,813,0.0008,0.9679,C,120,6.775,4.9288,0.7275,Y,CY,True
+37,adidas Kids' F5 Messi FG Soccer Cleat,Baseball & Softball,25892.6,2611.9,740,0.0008,0.9687,C,121,6.1157,4.3459,0.7106,Y,CY,True
+172,Nike Women's Tempo Shorts,Cardio Equipment,25740.0,3191.07,858,0.0008,0.9694,C,121,7.0909,5.5377,0.781,Y,CY,True
+564,Nike Men's Deutschland Weltmeister Winners Bl,Girls' Apparel,25470.0,2742.97,849,0.0008,0.9702,C,121,7.0165,5.5603,0.7925,Y,CY,True
+825,Bridgestone e6 Straight Distance NFL Tennesse,Electronics,24312.4,2255.71,760,0.0007,0.971,C,119,6.3866,5.1058,0.7995,Y,CY,True
+885,Team Golf St. Louis Cardinals Putter Grip,Accessories,22990.8,2666.91,920,0.0007,0.9717,C,119,7.7311,5.6233,0.7274,Y,CY,True
+724,LIJA Women's Mid-Length Panel Golf Shorts,Golf Shoes,22000.0,2731.06,220,0.0007,0.9723,C,21,10.4762,7.1107,0.6787,Y,CY,False
+893,Team Golf Pittsburgh Steelers Putter Grip,Accessories,21891.24,2955.46,876,0.0007,0.973,C,120,7.3,5.1279,0.7025,Y,CY,True
+906,Team Golf Tennessee Volunteers Putter Grip,Accessories,21766.29,2212.69,871,0.0007,0.9737,C,120,7.2583,4.6571,0.6416,Y,CY,True
+273,Under Armour Kids' Mercenary Slide,Electronics,21244.41,2183.18,759,0.0006,0.9743,C,120,6.325,4.5043,0.7121,Y,CY,True
+905,Team Golf Texas Longhorns Putter Grip,Accessories,21141.54,2810.79,846,0.0006,0.975,C,121,6.9917,4.4581,0.6376,Y,CY,True
+646,Merrell Women's Grassbow Sport Hiking Shoe,Men's Golf Clubs,20697.93,1818.65,207,0.0006,0.9756,C,22,9.4091,6.1074,0.6491,Y,CY,False
+886,Team Golf San Francisco Giants Putter Grip,Accessories,20641.74,2673.63,826,0.0006,0.9762,C,121,6.8264,4.6952,0.6878,Y,CY,True
+567,adidas Men's Germany Black Crest Away Tee,Girls' Apparel,20475.0,2586.62,819,0.0006,0.9768,C,119,6.8824,5.1258,0.7448,Y,CY,True
+778,Bag Boy Beverage Holder,Golf Gloves,20166.93,3129.86,807,0.0006,0.9775,C,121,6.6694,4.999,0.7495,Y,CY,True
+93,Under Armour Men's Tech II T-Shirt,Lacrosse,19917.03,2315.74,797,0.0006,0.9781,C,121,6.5868,5.1521,0.7822,Y,CY,True
+359,Nike Men's Free TR 5.0 TB Training Shoe,As Seen on  TV!,19898.01,1448.52,199,0.0006,0.9787,C,20,9.95,4.4777,0.45,X,CX,False
+917,Glove It Women's Mod Oval 3-Zip Carry All Gol,Trade-In,19681.05,2246.21,895,0.0006,0.9793,C,121,7.3967,5.0505,0.6828,Y,CY,True
+897,Team Golf New England Patriots Putter Grip,Accessories,19642.14,2432.68,786,0.0006,0.9799,C,121,6.4959,4.9768,0.7662,Y,CY,True
+134,Nike Women's Legend V-Neck T-Shirt,Hockey,19200.0,2659.01,768,0.0006,0.9804,C,121,6.3471,4.5875,0.7228,Y,CY,True
+258,Nike Women's Free 5.0 TR FIT PRT 4 Training S,Boxing & MMA,18903.01,1386.36,199,0.0006,0.981,C,20,9.95,5.0936,0.5119,Y,CY,False
+135,Nike Dri-FIT Crew Sock 6 Pack,Hockey,18656.0,2068.22,848,0.0006,0.9816,C,121,7.0083,5.1969,0.7415,Y,CY,True
+251,Brooks Women's Ghost 6 Running Shoe,Boxing & MMA,18627.93,2457.95,207,0.0006,0.9822,C,20,10.35,6.3185,0.6105,Y,CY,False
+607,Garmin Approach S3 Golf GPS Watch,Trade-In,18499.26,2163.36,74,0.0006,0.9827,C,20,3.7,2.1051,0.569,Y,CY,False
+677,TaylorMade White Smoke IN-12 Putter,Women's Golf Clubs,18498.15,2591.15,185,0.0006,0.9833,C,20,9.25,5.0145,0.5421,Y,CY,False
+24,Elevation Training Mask 2.0,Soccer,18397.7,3270.82,230,0.0006,0.9839,C,21,10.9524,4.7273,0.4316,X,CX,False
+78,Nike Kids' Grade School KD VI Basketball Shoe,Lacrosse,18098.19,1780.1,181,0.0006,0.9844,C,20,9.05,4.3827,0.4843,X,CX,False
+804,Glove It Women's Imperial Golf Glove,Golf Balls,17991.0,2022.85,900,0.0005,0.985,C,121,7.438,5.4328,0.7304,Y,CY,True
+295,Fitbit The One Wireless Activity & Sleep Trac,Kids' Golf Clubs,17891.05,1921.84,179,0.0005,0.9855,C,20,8.95,4.8718,0.5443,Y,CY,False
+703,Top Flite Women's 2014 XL Hybrid,Golf Apparel,17291.35,1864.59,865,0.0005,0.986,C,120,7.2083,4.9005,0.6798,Y,CY,True
+981,The North Face Women's Recon Backpack,Hunting & Shooting,17028.0,2639.54,172,0.0005,0.9865,C,21,8.1905,5.3068,0.6479,Y,CY,False
+306,Polar FT4 Heart Rate Monitor,Kids' Golf Clubs,16738.14,3324.26,186,0.0005,0.9871,C,21,8.8571,7.1083,0.8026,Y,CY,False
+777,Bag Boy M330 Push Cart,Golf Gloves,16237.97,2927.14,203,0.0005,0.9876,C,21,9.6667,6.2955,0.6513,Y,CY,False
+797,Hirzl Women's Soffft Flex Golf Glove,Golf Balls,15381.45,1259.63,855,0.0005,0.988,C,121,7.0661,4.924,0.6968,Y,CY,True
+730,LIJA Women's Argyle Golf Polo,Golf Shoes,15120.0,1373.23,189,0.0005,0.9885,C,20,9.45,4.2112,0.4456,X,CX,False
+810,Glove It Women's Mod Oval Golf Glove,Golf Balls,14832.58,2161.79,742,0.0005,0.9889,C,121,6.1322,3.8922,0.6347,Y,CY,True
+926,Glove It Imperial Golf Towel,Trade-In,14055.21,1561.78,879,0.0004,0.9894,C,121,7.2645,5.7064,0.7855,Y,CY,True
+1059,Pelican Maverick 100X Kayak,Water Sports,13999.6,1070.59,40,0.0004,0.9898,C,3,13.3333,2.3094,0.1732,X,CX,False
+924,Glove It Urban Brick Golf Towel,Trade-In,13335.66,1392.48,834,0.0004,0.9902,C,121,6.8926,4.8318,0.701,Y,CY,True
+303,Garmin Forerunner 910XT GPS Watch,Kids' Golf Clubs,13199.67,445.99,33,0.0004,0.9906,C,3,11.0,5.2915,0.481,X,CX,False
+671,Cleveland Golf Collegiate My Custom Wedge 588,Women's Golf Clubs,13019.38,1034.06,62,0.0004,0.991,C,20,3.1,1.2524,0.404,X,CX,False
+305,Mio ALPHA Heart Rate Monitor/Sport Watch,Kids' Golf Clubs,12935.0,1252.03,65,0.0004,0.9914,C,20,3.25,1.6504,0.5078,Y,CY,False
+203,GoPro HERO3+ Black Edition Camera,Strength Training,12799.68,245.6301,32,0.0004,0.9918,C,3,10.6667,1.5275,0.1432,X,CX,False
+773,Titleist Small Wheeled Travel Cover,Golf Gloves,12749.49,1459.43,51,0.0004,0.9922,C,20,2.55,2.481,0.9729,Y,CY,False
+793,Hirzl Women's Hybrid Golf Glove,Golf Balls,12531.64,1033.56,836,0.0004,0.9926,C,120,6.9667,4.4758,0.6425,Y,CY,True
+792,Hirzl Men's Hybrid Golf Glove,Golf Balls,12381.74,1094.85,826,0.0004,0.9929,C,121,6.8264,4.3391,0.6356,Y,CY,True
+208,SOLE E35 Elliptical,Strength Training,11999.94,-724.47,6,0.0004,0.9933,C,1,6.0,,,Z,CZ,False
+625,Nike Men's Kobe IX Elite Low Basketball Shoe,Shop By Sport,11799.41,902.19,59,0.0004,0.9937,C,21,2.8095,1.8061,0.6428,Y,CY,False
+216,Yakima DoubleDown Ace Hitch Mount 4-Bike Rack,Strength Training,11718.0,963.26,62,0.0004,0.994,C,20,3.1,1.6512,0.5326,Y,CY,False
+786,TaylorMade 2014 Purelite Stand Bag,Golf Gloves,11339.37,1372.75,63,0.0003,0.9944,C,20,3.15,1.387,0.4403,X,CX,False
+858,GolfBuddy VT3 GPS Watch,Kids' Golf Clubs,11199.44,597.47,56,0.0003,0.9947,C,21,2.6667,1.354,0.5078,Y,CY,False
+364,Total Gym 1400,Cleats,10799.64,808.62,36,0.0003,0.995,C,3,12.0,5.5678,0.464,X,CX,False
+691,MDGolf Pittsburgh Penguins Putter,Women's Golf Clubs,10558.68,1747.03,132,0.0003,0.9954,C,20,6.6,3.8987,0.5907,Y,CY,False
+743,Ogio Race Golf Shoes,Golf Bags & Carts,10369.39,1810.07,61,0.0003,0.9957,C,19,3.2105,1.6859,0.5251,Y,CY,False
+35,adidas Brazuca 2014 Official Match Ball,Baseball & Softball,9919.38,1549.07,62,0.0003,0.996,C,21,2.9524,1.322,0.4478,X,CX,False
+768,Titleist Club Glove Travel Cover,Golf Gloves,9899.67,1235.83,33,0.0003,0.9963,C,3,11.0,1.0,0.0909,X,CX,False
+845,Garmin Approach S4 Golf GPS Watch,Kids' Golf Clubs,9299.69,1118.44,31,0.0003,0.9966,C,3,10.3333,2.0817,0.2015,X,CX,False
+666,Merrell Men's All Out Flash Trail Running Sho,Men's Golf Clubs,9129.17,1355.58,83,0.0003,0.9968,C,21,3.9524,1.5645,0.3958,X,CX,False
+647,Merrell Women's Siren Mid Waterproof Hiking B,Men's Golf Clubs,9044.33,1252.36,67,0.0003,0.9971,C,20,3.35,1.6944,0.5058,Y,CY,False
+982,insta-bed Neverflat Air Mattress,Hunting & Shooting,8699.42,1048.77,58,0.0003,0.9974,C,21,2.7619,1.7293,0.6261,Y,CY,False
+715,TaylorMade Women's RBZ SL Rescue,Golf Apparel,8449.35,1201.28,65,0.0003,0.9976,C,21,3.0952,2.0471,0.6614,Y,CY,False
+775,Clicgear 8.0 Shoe Brush,Golf Gloves,8441.55,782.12,845,0.0003,0.9979,C,121,6.9835,4.9125,0.7035,Y,CY,True
+58,Diamondback Boys' Insight 24 Performance Hybr,Basketball,8399.72,1635.26,28,0.0003,0.9981,C,3,9.3333,4.1633,0.4461,X,CX,False
+127,Stiga Master Series ST3100 Competition Indoor,Hockey,8249.75,1241.19,25,0.0003,0.9984,C,3,8.3333,2.5166,0.302,X,CX,False
+705,Cleveland Golf Women's 588 RTX CB Satin Chrom,Golf Apparel,8159.32,333.55,68,0.0002,0.9986,C,21,3.2381,1.8683,0.577,Y,CY,False
+19,Nike Men's Fingertrap Max Training Shoe,Soccer,7874.37,575.19,63,0.0002,0.9989,C,20,3.15,1.6944,0.5379,Y,CY,False
+61,Diamondback Girls' Clarity 24 Hybrid Bike 201,Basketball,7799.74,444.27,26,0.0002,0.9991,C,3,8.6667,2.5166,0.2904,X,CX,False
+725,LIJA Women's Button Golf Dress,Golf Shoes,7776.0,1107.78,72,0.0002,0.9994,C,21,3.4286,1.886,0.5501,Y,CY,False
+652,Merrell Women's Grassbow Sport Waterproof Hik,Men's Golf Clubs,7019.46,853.02,54,0.0002,0.9996,C,21,2.5714,1.3256,0.5155,Y,CY,False
+311,Polar Loop Activity Tracker,Kids' Golf Clubs,5277.6,250.68,48,0.0002,0.9997,C,20,2.4,1.4654,0.6106,Y,CY,False
+226,Bowflex SelectTech 1090 Dumbbells,Fitness Accessories,4199.93,961.48,7,0.0001,0.9999,C,1,7.0,,,Z,CZ,False
+860,Bushnell Pro X7 Jolt Slope Rangefinder,Kids' Golf Clubs,2399.96,597.86,4,0.0001,0.9999,C,1,4.0,,,Z,CZ,False
+60,SOLE E25 Elliptical,Basketball,1999.98,-2519.93,2,0.0001,1.0,C,1,2.0,,,Z,CZ,False
