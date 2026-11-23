@@ -193,10 +193,12 @@ Annual Cost Saving =
 
 1. Download the dataset from [Kaggle](https://www.kaggle.com/datasets/shashwatwork/dataco-smart-supply-chain-for-big-data-analysis) and put `DataCoSupplyChainDataset.csv` in `data/raw/`.
 2. `pip install -r requirements.txt`
-3. Run the notebooks in `python/` in order (01 → 04), then `python make_readme_banner.py`.
+3. Run the notebooks in `python/` in order (01 → 04), then from the repo root: `python python/make_readme_banner.py`.
 4. *(Optional)* In SSMS, run `sql/01_create_and_load.sql`, then `sql/02_analysis_queries.sql`.
 5. Open `powerbi/Supply_Chain_Dashboard.pbix` in Power BI Desktop. If prompted, point the data source to `powerbi/powerbi_data.xlsx`.
 
 ---
 
-**Author:** Sowrav Anilkumar · M.S. Business Analytics, University of New Haven
+**Author:** Sowrav Anilkumar · M.S. Business Analytics, University of New Haven · [Portfolio](https://anilkumarsowrav.github.io)
+
+Licensed under the [MIT License](LICENSE).
